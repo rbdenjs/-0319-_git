@@ -18,7 +18,7 @@ class dsl(object) :
 
             print(f'{self.name} is chongmu')
 
-        elif self.name == 'chanhyung' :
+        elif self.name == 'namhun' :
 
             print(f'{self.name} is haksul')
 
