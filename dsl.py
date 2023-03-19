@@ -14,6 +14,10 @@ class dsl(object) :
 
             print(f'{self.name} is president')
 
+        elif self.name == 'gyuwon' :
+
+            print(f'{self.name} is chongmu')
+
         else :
 
             print(f'{self.name}이 누구임?')
